@@ -11,7 +11,7 @@ A ideia é avaliar, via aplicação web feita em Gradio, diferentes abordagens e
 
 ## 📊 Dados
 
-Os dados utlizados são da produção de leite de uma indústria de laticínios
+Os dados utlizados são da produção mensal de leite de uma indústria de laticínios
 
 
 ### Etapas realizadas:

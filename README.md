@@ -20,7 +20,8 @@ Os dados utlizados são da produção mensal de leite de uma indústria de latic
 - Definição dos parâmetros de previsão
 - Criação das funções que vão definir cada um dos modelos para previsão
 - Gráfico para avaliação dos modelos com melhor poder preditivo
-- Criação de Aplicação Web do Benchmark com Gradio
+- Criação do protótio da Aplicação Web do Benchmark com Gradio
+- Deploy da Aplicação no Hugging Faces: https://huggingface.co/spaces/CausaLInference/Benchmark01/tree/main
 
 ---
 
@@ -50,7 +51,9 @@ Cada modelo foi ajustado individualmente para prever os próximos `steps_ahead` 
 
 ## 📈 Visualizações
 
-- Visualizações das séries utilizadas no benchmark
+- Visualizações das séries utilizadas no benchmark:
+  ![image](https://github.com/user-attachments/assets/5d207fe4-5930-45ba-9b13-a0427979a4f4)
+
 
 ---
 

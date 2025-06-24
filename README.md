@@ -1,4 +1,4 @@
-# Projeto 5: Benchmark de Séries Temporais
+# Projeto 6: Benchmark de Séries Temporais
 
 # 📊 Projeto: Benchmark de Modelos de Séries Temporais
 
